@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finance", "Finance\Finance.csproj", "{3A952A37-6928-4F9D-A072-03E6A23FD0E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finance.Tests", "Finance.Test\Finance.Tests.csproj", "{7E1BBB8C-5764-4EB4-8FFD-9168FF872D9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A952A37-6928-4F9D-A072-03E6A23FD0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A952A37-6928-4F9D-A072-03E6A23FD0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A952A37-6928-4F9D-A072-03E6A23FD0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A952A37-6928-4F9D-A072-03E6A23FD0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1BBB8C-5764-4EB4-8FFD-9168FF872D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1BBB8C-5764-4EB4-8FFD-9168FF872D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1BBB8C-5764-4EB4-8FFD-9168FF872D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1BBB8C-5764-4EB4-8FFD-9168FF872D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EADC4CB3-7B67-44BC-8D2D-794BA35310D2}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://lachgar.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Finance\\Finance.csproj
+		SccProjectName1 = Finance
+		SccLocalPath1 = Finance
+		SccProjectUniqueName2 = Finance.Test\\Finance.Tests.csproj
+		SccProjectName2 = Finance.Test
+		SccLocalPath2 = Finance.Test
+	EndGlobalSection
+EndGlobal
