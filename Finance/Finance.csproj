@@ -9,7 +9,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>1.0.4-beta</Version>
+    <Version>1.0.5</Version>
     <Authors>LACHGAR Omar</Authors>
     <Copyright>© LACHGAR Omar. All rights reserved.</Copyright>
     <PackageTags>dotNet Standard 2.0, Finance, Formulas, General, Banking, Bonds, Corporate, Markets, Stocks.</PackageTags>
@@ -25,6 +25,8 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <ApplicationIcon />
+    <RepositoryUrl>https://github.com/olachgar/FinanceNuget</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/olachgar/FinanceNuget/blob/master/README.md</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
